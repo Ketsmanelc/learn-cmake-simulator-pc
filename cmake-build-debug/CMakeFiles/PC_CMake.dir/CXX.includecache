@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/project17/PC_CMake/cpu.h
+
+C:/Users/project17/PC_CMake/disk.h
+
+C:/Users/project17/PC_CMake/gpu.h
+
+C:/Users/project17/PC_CMake/kbd.h
+
+C:/Users/project17/PC_CMake/main.cpp
+iostream
+-
+cpu.h
+C:/Users/project17/PC_CMake/cpu.h
+ram.h
+C:/Users/project17/PC_CMake/ram.h
+gpu.h
+C:/Users/project17/PC_CMake/gpu.h
+disk.h
+C:/Users/project17/PC_CMake/disk.h
+kbd.h
+C:/Users/project17/PC_CMake/kbd.h
+
+C:/Users/project17/PC_CMake/ram.h
+
